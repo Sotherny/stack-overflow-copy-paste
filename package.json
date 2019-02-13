@@ -3,6 +3,7 @@
   "description": "Utility functions copy/pasted (and modified slightly) from Stack Overflow",
   "version": "0.0.0-semantically-released",
   "main": "dist/index.js",
+  
   "scripts": {
     "commit": "git-cz",
     "prebuild": "rimraf dist",
